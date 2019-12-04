@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadJokesApp", "DadJokesApp\DadJokesApp.csproj", "{72920C49-EE1C-4795-9DE5-D3DDFB545942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadJokesLibrary", "DadJokesAppLibrary\DadJokesLibrary.csproj", "{31F0F185-19FC-48E7-8B79-9847818B8B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72920C49-EE1C-4795-9DE5-D3DDFB545942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72920C49-EE1C-4795-9DE5-D3DDFB545942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72920C49-EE1C-4795-9DE5-D3DDFB545942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72920C49-EE1C-4795-9DE5-D3DDFB545942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F0F185-19FC-48E7-8B79-9847818B8B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F0F185-19FC-48E7-8B79-9847818B8B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F0F185-19FC-48E7-8B79-9847818B8B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F0F185-19FC-48E7-8B79-9847818B8B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF48975-92B2-4B37-9AE9-2EB5F4BCEA8C}
+	EndGlobalSection
+EndGlobal
